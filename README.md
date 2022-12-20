@@ -1,2 +1,2 @@
-# Flatiron_Proj_1
-Hypothetical movie analysis to recommend genre and run time for a new movie production
+# Movie_Genre_Analysis
+Project 
